@@ -22,7 +22,7 @@
     "dependencies": {
         "bootstrap-datepicker": "^1.9.0",
         "ckeditor4": "^4.13.1",
-        "datatables.net": "^1.10.20",
+        "datatables.net": "^1.10.22",
         "datatables.net-bs4": "^1.10.20",
         "datatables.net-buttons-bs4": "^1.6.1",
         "jquery": "^3.4.1",
